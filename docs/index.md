@@ -1,5 +1,5 @@
 ```bash
-
+bench init --frappe-branch version-14 frappe-bench
 cd frappe-bench/
 chmod -R o+rx /home/frappe
 bench new-site hs.rai
