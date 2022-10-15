@@ -2,13 +2,6 @@
 
 ---
 
-## Day 6
-
----
-
-[Previous](day5.md) | [Index](index.md)
-
-
 # Basics
 
 ## Python Variables:
