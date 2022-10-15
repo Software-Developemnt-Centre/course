@@ -1,3 +1,14 @@
+[Go to parent](day4.md) | [Index](index.md)
+
+---
+
+## Day 6
+
+---
+
+[Previous](day5.md) | [Index](index.md)
+
+
 # Basics
 
 ## Python Variables:
@@ -350,3 +361,8 @@ Let's see the output:
 ```
 ---
 # Thank you
+
+
+---
+
+[Go to parent](day4.md) | [Index](index.md)
