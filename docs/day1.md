@@ -1,3 +1,7 @@
+[Previous](index.md) | [Index](index.md) | [Next](day2.md)
+
+---
+
 ```bash
 bench init --frappe-branch version-14 frappe-bench
 cd frappe-bench/
@@ -13,3 +17,7 @@ bench new-app library_management
 bench --site library.test install-app library_management
 
 ```
+
+---
+
+[Previous](index.md) | [Index](index.md) | [Next](day2.md)
