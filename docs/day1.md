@@ -2,6 +2,8 @@
 
 ---
 
+## Day 1
+
 ```bash
 bench init --frappe-branch version-14 frappe-bench
 cd frappe-bench/
