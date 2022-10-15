@@ -184,7 +184,7 @@ I think you may have got the concept which condition got satisfied and why?
 
 ---
 
-**Task: Veify this for other set of values**
+**Task: Verify this for other set of values**
 
 > Note: I think you have must note down something that the space used
 > after each if or elif or else keyword. This is indentation
