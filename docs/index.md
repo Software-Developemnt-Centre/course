@@ -1,15 +1,8 @@
-```bash
-bench init --frappe-branch version-14 frappe-bench
-cd frappe-bench/
-chmod -R o+rx /home/frappe
-bench new-site hs.rai
-bench --site hs.rai add-to-hosts
-bench use hs.rai
-bench start
+## Notes on Web App Development with no-code / low-code
 
-# // In new terminal // #
-
-bench new-app library_management
-bench --site library.test install-app library_management
-
-```
+1. [Day 1](day1.md)
+1. [Day 2](day2.md)
+1. [Day 3](day3.md)
+1. [Day 4](day4.md)
+1. [Day 5](day5.md)
+1. [Day 6](day6.md)
