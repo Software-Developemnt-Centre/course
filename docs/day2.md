@@ -6,7 +6,7 @@
 
 ### Task 1 Create a new site
 
-To develop web-apps with Frappe, we need to initialise `bench` by telling which branch (version) of Frappe we wish to use and telling a name of new directory (folder). At present, latest version of Frappe is 14, which is maintaine din branch `vesion-14`, so we will specify this branch for `--frape-branch` and use `frappe-bench` as the name of new folder, in which bench will fetch code of `frappe` and do initialisation.
+To develop web-apps with Frappe, we need to initialise `bench` by telling which branch (version) of Frappe we wish to use and telling a name of new directory (folder). At present, latest version of Frappe is 14, which is maintained in branch `vesion-14`, so we will specify this branch for `--frappe-branch` and use `frappe-bench` as the name of new folder, in which bench will fetch code of `frappe` and do initialisation.
 
 
 ```bash
