@@ -1,4 +1,3 @@
-```python
 # Copyright (c) 2022, SDC and contributors
 # For license information, please see license.txt
 
@@ -64,5 +63,3 @@ class LibraryTransaction(Document):
         )
         if count >= max_articles:
             frappe.throw("Maximum limit reached for issuing articles")
-```
-SDC 
