@@ -41,11 +41,11 @@ Logout from user `cc3` and login as `hsrai` (replace `hsrai` with your username,
 1. To create account at github.com visit [https://github.com](https://github.com/) and click on the button named [Sign up].
 1. Enter you email, then enter your proposed password, then click on [Continue].
 1. Try a `username`, which is not taken by anyone else, before, and click [Continue].
-1. Type "y" for yes or "n" for no for next question, whicj is: Would you like to receive product updates and announcements via email?, click [Continue].
+1. Type "y" for yes or "n" for no for next question, which is: Would you like to receive product updates and announcements via email?, click [Continue].
 1. Prove you are human being by solving a puzzle, if presented.
 1. Click on [Create account] to create your account.
 1. Verify you email, by entering code sent your entered email ID.
-1. Skip presonilastion at the bottom, or tell how you wise use, by telling your team size, Click on teacher or student,as applicable, and click on [Continue], slelect fetures, select [Continue for free] or opt for a few benefits as applicable to you. 
+1. Skip presonilastion at the bottom, or tell how you wise use, by telling your team size, Click on teacher or student,as applicable, and click on [Continue], select fetures, select [Continue for free] or opt for a few benefits as applicable to you. 
 1. Then you will be presented with your dashboard.
 
 ### Task 3: Create git repository
