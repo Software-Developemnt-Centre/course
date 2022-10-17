@@ -2,6 +2,8 @@
 
 Notes for the participants of 14 hours course (6 days, between Oct 12 - 18, 2022) conducted by Software Developemnt Centre of [Guru Nanak Dev Engineering College](https:gndec.ac.in), Ludhiana.
 
+These notes are an expanded version of the [official tutorial](https://frappeframework.com/docs/v14/user/en/tutorial). Participants are encouraged to go through it and read it in-between-the-lines.
+
 1. [Day 1](day1.md)
 1. [Day 2](day2.md)
 1. [Day 3](day3.md)
