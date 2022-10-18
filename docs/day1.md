@@ -51,7 +51,7 @@ Logout from user `cc3` and login as `hsrai` (replace `hsrai` with your username,
 ### Task 3: Create git repository
 1. Now you have to visit github.com visit [https://github.com](https://github.com/) and login with you username and password after that navigate to righmost corner on your avtar and you will see + symbol just left to your avtar click on it and you will see the dropdown where you will find `New repository`.
 
-![Repository Create](/img/repo-create.png)
+![Repository Create](docs/img/repo-create.png)
 
 1. After navigating to the new repo Type a short, memorable name for your repository. For example, "hello-world`.
 1. Now Optionally, add a description of your repository. For example, `My first repository on GitHub.`
