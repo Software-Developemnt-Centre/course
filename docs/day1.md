@@ -76,6 +76,17 @@ Logout from user `cc3` and login as `hsrai` (replace `hsrai` with your username,
 
 ### Task 4: Create GitHub page
 
+- Now navigate to your repository name helllo-world/or any name you have entered you will find your repository by following below image.
+
+![Repository Create](/img/desktop-view-github.png)
+
+
+![Repository Create](/img/repo-view.png)
+
+- Now  click on your repository and navigate `Add file` and click on `Create New File`.
+
+![Repository Create](/img/add-file.png)
+
 ### Task 5: Get repository on your computer
 
 ### Task 6: Edit web page, update on github
