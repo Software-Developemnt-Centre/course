@@ -78,14 +78,25 @@ Logout from user `cc3` and login as `hsrai` (replace `hsrai` with your username,
 
 - Now navigate to your repository name helllo-world/or any name you have entered you will find your repository by following below image.
 
-![Repository Create](/img/desktop-view-github.png)
-
-
 ![Repository Create](/img/repo-view.png)
 
 - Now  click on your repository and navigate `Add file` and click on `Create New File`.
 
 ![Repository Create](/img/add-file.png)
+
+- Now you will find a diloge box where you have to write your file and folder name, now write `docs/` this will create a folder name docs and now write file name as `hobby.md` this will create a file name `hobby.md` under docs folder.
+
+![Repository Create](/img/file-name.png)
+
+- Now you can write mardown here for mardown syntax you can refere following link:
+![Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+
+![Repository Create](/img/mardown-content.png)
+
+- Commit changes as explained below.
+
+![Repository Create](/img/commit-meessage.png)
+
 
 ### Task 5: Get repository on your computer
 
