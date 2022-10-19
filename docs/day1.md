@@ -84,7 +84,7 @@ Logout from user `cc3` and login as `hsrai` (replace `hsrai` with your username,
 
 ![Repository Create](/img/add-file.png)
 
-- Now you will find a diloge box where you have to write your file and folder name, now write `docs/` this will create a folder name docs and now write file name as `hobby.md` this will create a file name `hobby.md` under docs folder.
+- Now you will find a diloge box where you have to write your file and folder name, now write `docs/` this will create a folder name docs and now write file name as `hobby.md` this will create a file name `index.md` under docs folder.
 
 ![Repository Create](/img/file-name.png)
 
@@ -97,6 +97,13 @@ Logout from user `cc3` and login as `hsrai` (replace `hsrai` with your username,
 
 ![Repository Create](/img/commit-meessage.png)
 
+- Navigate to `setting` and then find `pages` and click on it.
+
+- Now change two fied under Branch set these field to `main` and `/docs` respectively and click on save button near two these option.
+
+![Repository Create](/img/branch.png)
+
+- After some time navigate to setting --> Pages --> and on top you will see Your site url.
 
 ### Task 5: Get repository on your computer
 
