@@ -31,16 +31,18 @@ And later on we have printed the values.
 
 So, let's see the output-
 
+```
 13
 3
 40
 1.6
+```
 
 So, it is how we can use Python as a calculator.
 ---
 
 Now let's see the type of the variables, and to get that we are going
-to use a funcion named type():
+to use a function named type():
 
 ```python
 print(type(sum))
@@ -75,7 +77,9 @@ So, in this code segment we have taken two strings and assigned them
 into variables and then have concatenated the strings using plus.
 So, here is the output-
 
+```
 Good Morning Amrit
+```
 
 ---
 Now initialize another variable age and set any value to it.
