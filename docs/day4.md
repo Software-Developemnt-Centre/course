@@ -4,7 +4,7 @@
 
 ## Day 4
 
-[Bay step in Python](python.md)
+[Baby step in Python](python.md)
 
 ---
 
